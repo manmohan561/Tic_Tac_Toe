@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn3row3" type="id"></item>
+    <item name="btn2row3" type="id"></item>
+    <item name="btn1row3" type="id"></item>
+    <item name="btn3row2" type="id"></item>
+    <item name="btn2row2" type="id"></item>
+    <item name="btn1row2" type="id"/>
+    <item name="btn3row1" type="id"/>
+    <item name="btn2row1" type="id"/>
+    <item name="btn1row1" type="id"/>
+    <item name="turn" type="id" />
+    <item name="reset" type="id" />
+</resources>
